@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Piano\Piano\bin\Debug\Piano.exe.config
+C:\Users\HP\source\repos\Piano\Piano\bin\Debug\Piano.exe
+C:\Users\HP\source\repos\Piano\Piano\bin\Debug\Piano.pdb
+C:\Users\HP\source\repos\Piano\Piano\obj\Debug\Piano.Form1.resources
+C:\Users\HP\source\repos\Piano\Piano\obj\Debug\Piano.Properties.Resources.resources
+C:\Users\HP\source\repos\Piano\Piano\obj\Debug\Piano.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Piano\Piano\obj\Debug\Piano.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Piano\Piano\obj\Debug\Piano.exe
+C:\Users\HP\source\repos\Piano\Piano\obj\Debug\Piano.pdb
+C:\Users\HP\source\repos\Piano\Piano\bin\Debug\Piano.exe.manifest
+C:\Users\HP\source\repos\Piano\Piano\bin\Debug\Piano.application
+C:\Users\HP\source\repos\Piano\Piano\obj\Debug\Piano.exe.manifest
+C:\Users\HP\source\repos\Piano\Piano\obj\Debug\Piano.application
+C:\Users\HP\source\repos\Piano\Piano\obj\Debug\Piano.csprojAssemblyReference.cache
